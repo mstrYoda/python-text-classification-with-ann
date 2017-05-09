@@ -1,11 +1,7 @@
 # -*- coding:utf-8 -*-
-import re
 
 import numpy as np
 import json
-
-import tweepy
-from tweepy import StreamListener
 
 from zemberek import Stemmer
 
